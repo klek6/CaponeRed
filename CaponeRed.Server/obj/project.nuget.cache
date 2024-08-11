@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HP/h00YuvL0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kleks\\Documents\\CaponeRed\\CaponeRed.Server\\CaponeRed.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kleks\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.7\\microsoft.aspnetcore.spaproxy.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

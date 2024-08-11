@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaponeRed.Server", "CaponeRed.Server\CaponeRed.Server.csproj", "{AEB0F3C2-963D-4846-A736-E718245F8FAA}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "caponered.client", "caponered.client\caponered.client.esproj", "{8EBE2F61-A021-468B-AABC-DB11AD2DBF79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB0F3C2-963D-4846-A736-E718245F8FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB0F3C2-963D-4846-A736-E718245F8FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB0F3C2-963D-4846-A736-E718245F8FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB0F3C2-963D-4846-A736-E718245F8FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBE2F61-A021-468B-AABC-DB11AD2DBF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBE2F61-A021-468B-AABC-DB11AD2DBF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBE2F61-A021-468B-AABC-DB11AD2DBF79}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8EBE2F61-A021-468B-AABC-DB11AD2DBF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBE2F61-A021-468B-AABC-DB11AD2DBF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBE2F61-A021-468B-AABC-DB11AD2DBF79}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5068DFF0-4B2B-45E6-9423-D3D4406905F9}
+	EndGlobalSection
+EndGlobal
